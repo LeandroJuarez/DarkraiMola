@@ -30,11 +30,20 @@ img {
   
   }
   
-  .text-box h2 {
+  .text-box a {
   
     font-size: 36px;
     text-align: justify;
     margin-bottom: 5px;
+    text-decoration: none;
+    color: #fff;
+    transition: 0.25s;
+
+  }
+
+  .text-box a:hover {
+  
+    color: #4440c3;
 
   }
   

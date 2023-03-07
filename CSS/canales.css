@@ -1,0 +1,45 @@
+/* Canales */
+img {
+
+    float: left;
+    max-width: 320px;
+    border-radius: 120px;
+    margin-right: 40px;
+
+}
+
+#titulocanal {
+
+    font-size: 46px;
+    color: blue;
+    text-align: center;
+    font-weight: 400;
+
+}
+
+.wrapper {
+
+    margin: 150px auto;
+    width: 70%;
+  
+  }
+  
+  .text-box {
+  
+    color: #fff;
+  
+  }
+  
+  .text-box h2 {
+  
+    font-size: 36px;
+    text-align: justify;
+    margin-bottom: 5px;
+
+  }
+  
+  .text-box p {
+
+    text-align: justify;
+
+  }
